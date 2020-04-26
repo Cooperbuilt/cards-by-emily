@@ -27,6 +27,7 @@ const Layout = ({ children, site }) => (
               <div className="Header__summary__line">
                 Total price: <span className="snipcart-total-price"></span>
               </div>
+              <button class="snipcart-checkout">Click here to checkout</button>
             </div>
           </div>
         </div>
