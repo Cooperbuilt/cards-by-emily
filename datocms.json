@@ -6,6 +6,5 @@
   "deploymentType": "static",
   "buildCommand": "yarn build",
   "buildDirectory": "public",
-  "datocmsApiTokenEnvName": "DATO_API_TOKEN",
-  "livePreviewUrl": "https://datocms-snipcart-gatsby-demo.netlify.com/"
+  "datocmsApiTokenEnvName": "DATO_API_TOKEN"
 }
