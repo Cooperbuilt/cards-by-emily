@@ -58,7 +58,7 @@ export default () => (
                       data-item-price={product.price}
                       data-item-image={product.image.url}
                       data-item-name={product.name}
-                      data-item-url={`https://pensive-mcnulty-402c9c.netlify.app`}
+                      data-item-url={`https://www.happysnailcards.com`}
                     >
                       Buy now
                     </button>
